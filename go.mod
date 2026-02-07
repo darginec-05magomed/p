@@ -1,3 +1,3 @@
-module awesomeProject6
+module hello-world
 
 go 1.25
